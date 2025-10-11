@@ -2,4 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0| |
+|Lamp Shade|1|$18.99|[Amazon](https://www.amazon.com/dp/B0D9P225LJ?tag=maslowcnc01-20)|
+|Total: |1|$18.99| |
